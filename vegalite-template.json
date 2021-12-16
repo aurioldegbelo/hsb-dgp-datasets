@@ -1,0 +1,21 @@
+{
+  "width": 200,
+  "height": 200,
+  "data": {  },
+  "transform": [{    }],
+  "mark": "bar/point/circle/square/tick/line/area",
+  "encoding": {
+    "x": {
+      "field": "fieldName",
+      "type": "nominal/ordinal/temporal/quantitative"
+    },
+    "y": {
+      "field": "fieldName",
+      "type": "nominal/ordinal/temporal/quantitative"
+      
+    },
+    "color": {       }, 
+    "size": {        },
+    "text": {        }
+  }
+}
