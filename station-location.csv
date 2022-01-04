@@ -1,0 +1,25 @@
+Station (Lanuv);Station;Latitude;Longitude;Elevation;Location;Full name
+AABU T AM1H [°C];AABU;50,754729;6,093826;200;Hintergrund;Aachen-Burtscheid
+BONN T AM1H [°C];BONN;50,753629;7,082648;60;Verkehr;Bonn-Auerberg
+BOTT T AM1H [°C];BOTT;51,525955;6,97688;30 ;Industrie;Bottrop-Welheim
+CHOR T AM1H [°C];CHOR;51,019338;6,884571;46 ;Hintergrund;Köln-Chorweiler
+DUB2 T AM1H [°C];DUB2;51,485492;6,735431;24 ;Industrie;Duisburg-Bruckhausen
+DURH T AM1H [°C];DURH;51,460721;6,727486;28 ;Hintergrund;Duisburg (Rheinhafen)
+EIFE T AM1H [°C];EIFE;50,653234;6,281008;580 ;Hintergrund;Simmerath (Eifel)
+EVOG T AM1H [°C];EVOG;51,49654;6,980991;40 ;Hintergrund;Essen-Vogelheim
+JACK T AM1H [°C];JACK;51,033834;6,451483;112 ;Industrie;Jackerath
+JHNK T AM1H [°C];JHNK;51,097638;6,469463;83;Industrie;Jüchen-Hochneukirch
+KRHA T AM1H [°C];KRHA;51,342572;6,670194;34 ;Industrie;Krefeld (Hafen)
+MGRH T AM1H [°C];MGRH;51,154607;6,42561;83 ;Hintergrund;Mönchengladbach-Rheydt
+NIED T AM1H [°C];NIED;51,592208;7,569761;59 ;Hintergrund;Lünen-Niederaden
+RAT2 T AM1H [°C];RAT2;51,30394;6,819887;42 ;Hintergrund;Ratingen-Tiefenbroich
+RODE T AM1H [°C];RODE;50,889871;6,985074;50;Hintergrund;Köln-Rodenkirchen
+ROTH T AM1H [°C];ROTH;50,930329;8,191907;641 ;Hintergrund;Netphen Rothaargebirge
+SOES T AM1H [°C];SOES;51,570675;8,148023;108 ;Hintergrund;Soest-Ost
+SOLI T AM1H [°C];SOLI;51,183782;7,052573;208 ;Hintergrund;Solingen-Wald
+UNNA T AM1H [°C];UNNA;51,547479;7,693785;76 ;Hintergrund;Unna-Königsborn
+VACW T AM1H [°C];VACW;50,773126;6,09576;168 ;Verkehr;Aachen Wilhelmstraße
+VKCL T AM1H [°C];VKCL;50,962838;7,004605;53 ;Verkehr;Köln Clevischer Ring
+VKTU T AM1H [°C];VKTU;50,947268;6,957649;55 ;Verkehr;Köln Turiner Straße
+WALS T AM1H [°C];WALS;51,52403;6,748363;17 ;Industrie;Duisburg-Walsum
+WAST T AM1H [°C];WAST;51,442993;8,360797;315 ;Industrie;Warstein
