@@ -1,4 +1,4 @@
-# dgp2021-datasets
+# dgp-datasets
 
 Datasets used during the Design von Geoinformationsprodukten Course (2021 \& 2022 & 2023)
 
