@@ -1,6 +1,6 @@
 # dgp-datasets
 
-Datasets used during the Design von Geoinformationsprodukten Course (2021 & 2022 & 2023 & 2024)
+Datasets used during the Design von Geoinformationsprodukten Course (2021 & 2022 & 2023 & 2024 & 2025)
 
 The weather dataset about temperature/humidity values in NRW in 2021 was taken from https://www.lanuv.nrw.de/umwelt/luft/immissionen/berichte-und-trends/tageswerte .
 
